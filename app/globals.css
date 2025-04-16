@@ -245,7 +245,7 @@
   }
 
   .startup-card {
-    @apply bg-white border-[5px] border-black py-6 px-5 rounded-[22px] shadow hover:border-primary transition-all duration-500 hover:bg-primary/10;
+    @apply bg-white border-[5px] border-primary py-6 px-5 rounded-[22px] shadow hover:border-primary transition-all duration-500 hover:bg-primary/10;
   }
 
   .startup-card_date {
